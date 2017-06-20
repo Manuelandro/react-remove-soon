@@ -1,0 +1,8 @@
+{
+    "cart": 0,
+    "isActive": 0,
+    "coupon": "",
+    "baseTotal": 0,
+    "total": 0,
+    "items": []
+}

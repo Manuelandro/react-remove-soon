@@ -1,0 +1,12 @@
+{
+    "userLogged": false,
+    "lastLogged": 0,
+    "id": 0,
+    "firstname": "",
+    "lastname": "",
+    "email": "",
+    "customer_telephone": "",
+    "orders": [],
+    "creditCards": [],
+    "eatalyCards": []
+}

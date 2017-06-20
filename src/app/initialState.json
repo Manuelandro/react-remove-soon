@@ -1,0 +1,10 @@
+{
+    "app_name": "Lunch Delivery",
+    "app_version": "0.0.1",
+    "rehydrated": false,
+    "loaded": false,
+    "ux": {
+        "showRequestLoader": false,
+        "error": ""
+    }
+}

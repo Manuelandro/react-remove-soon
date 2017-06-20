@@ -1,0 +1,61 @@
+{
+    "form_key": "",
+    "login": {
+        "login[username]": "",
+        "login[password]": "",
+        "form": {
+            "login[username]": {
+                "passed": true,
+                "error": ""
+            },
+            "login[password]": {
+                "passed": true,
+                "error": ""
+            }
+        }
+    },
+    "register": {
+        "form": {
+            "firstname": {
+                "passed": true,
+                "error": ""
+            },
+            "lastname": {
+                "passed": true,
+                "error": ""
+            },
+            "customer_telephone": {
+                "passed": true,
+                "error": ""
+            },
+            "email": {
+                "passed": true,
+                "error": ""
+            },
+            "password": {
+                "passed": true,
+                "error": ""
+            },
+            "privacy": {
+                "passed": false,
+                "error": ""
+            }
+        },
+        "firstname": "",
+        "lastname": "",
+        "email": "",
+        "password": "",
+        "customer_telephone": "",
+        "privacy": false
+    },
+    "forgotpassword": {
+        "visible": false,
+        "email": "",
+        "form": {
+            "email": {
+                "passed": true,
+                "error": ""
+            }
+        }
+    }
+}
